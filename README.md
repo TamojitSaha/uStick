@@ -1,6 +1,6 @@
 # uStick
 μStick (pronounced as "mu stick")or uStick is a 32bit Arm Cortex M0+ based Arduino Compatible micro development board specially designed for battery driven projects/products.
-The project is available to order from OSH Park.
+The project is available to order from [OSH Park](https://oshpark.com/projects/SfXMe0NL).
 
 ## Features:
 - Micro Dev Board (39mm x 15mm)
