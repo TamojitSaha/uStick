@@ -26,7 +26,12 @@ The project is available to order from [OSH Park](https://oshpark.com/projects/S
 - 9 solder jumpers on PCB bottom for configuration flexibility
 - Arduino compatible (use the Arduino IDE to upload)
 
+## Design Layout
+
+<img src="https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/d2f6fcf82c3233004c6eeb3521fc9b59.png"
+height="150px">&nbsp;&nbsp;<img src= "https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/7b0fc63ea3109b00a3c7d600d40abf2c.png" height="150px">
+
 ## License
 The source files are released under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width = "100px" height = "31px">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" height = "31px">
